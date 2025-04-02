@@ -52,5 +52,5 @@
 8. 터미널에 `git status` 업로드 안된 파일 빨강색 색 확인
 9. `git add 파일명.확장자` 수정한 파일 스테이지에 업로드하기
 10. `git status` 위 9번 업로드 됐는지 확인 (초록색 변경)
-9. `git commit -m "메세지"` 수정 파일에 대한 기록 메세지 작성
-10. `git push origin main` 깃허브 저장소에 업로드
+11. `git commit -m "메세지"` 수정 파일에 대한 기록 메세지 작성
+12. `git push origin main` 깃허브 저장소에 업로드
