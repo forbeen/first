@@ -34,3 +34,9 @@
 3. master -> main으로 최상위 경로명칭을 변경하기 위해서 `git branch -m main`작성
 4. gitHub 저장소 생성 후 저장소 주소 복사
 5. 현재 로컬 저장소 gitHub 저장소 연결 `git remote add origin 주소붙여넣기`
+6. `git status` 현재 상태 확인 (스테이징, 작업디렉터리, 저장소)
+7. 위 6번 결과 파일이 빨강색으로 출력될 경우 `git add 파일명` 스테이징 올리기
+8. `git status` 위 7번에서 올린 파일이 초록색으로 변결된 걸 확인
+9. `git commit -m '기록메세지'` 스테이징 파일을 저장소에 올리기 위한 기록 설정
+10. `git push origin main` 깃허브 저장소에 최종 파일, 폴더 업로드
+11. 위 10번 처음 진행 시 github 계정 인증 화면이 나오면 인증 진행 / 저장소(github사이트)로 돌아간 후 F5
