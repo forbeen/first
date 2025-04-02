@@ -55,13 +55,13 @@
 11. `git commit -m "메세지"` 수정 파일에 대한 기록 메세지 작성
 12. `git push origin main` 깃허브 저장소에 업로드
 ----
-# <html>의 속성과 값
-### <html lang="ko">
+# `<html>`의 속성과 값
+### `<html lang="ko">`
 * 컴퓨터의 화면 낭독 소프트웨어 "스크린 리더"
-# <meta>의 속성과 값
-### <meta charset="utf-8">
+# `<meta>`의 속성과 값
+### `<meta charset="utf-8">`
 * 다국어 설정이라고 보면 됨 / 메타태그 자체는 부가설정값
-### <meta name="description" content="">
+### `<meta name="description" content="">`
 * 검색시 뜨는 메인 이름 아래에 부가설명을 적는 태그
-### <meta name="keywords" content="">
+### `<meta name="keywords" content="">`
 * 검색시 찾을 수 있게 관련 키워드를 설정하는 태그
